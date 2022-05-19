@@ -5,11 +5,11 @@ Project build using the PyTorch library and the VGG19 model.
 
 ## Some outputs
 
-![Output1][outputs/o1/output1.png]
+![Output1](outputs/o1/output.png)
 
-![Output2][outputs/o2/output2.png]
+![Output2](outputs/o2/output.png)
 
-![Output3][outputs/o3/output3.png]
+![Output3](outputs/o3/output.png)
 
 ## References
 
